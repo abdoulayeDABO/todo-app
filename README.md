@@ -8,12 +8,12 @@
 
 # App Screenshots
 
-![Splash screen](/assets/splash.png)
-![Empty task screen](/assets/empty.png)
-![Add task screen](/assets/add.png)
-![Task list](/assets/tasks.png)
-![Selection](/assets/edit.png)
-![Delete task](/assets/delete-confirm.png)
+![Splash screen](/assets/splash.PNG)
+![Empty task screen](/assets/empty.PNG)
+![Add task screen](/assets/add.PNG)
+![Task list](/assets/tasks.PNG)
+![Selection](/assets/edit.PNG)
+![Delete task](/assets/delete-confirm.PNG)
 
 
 # Features in the future
