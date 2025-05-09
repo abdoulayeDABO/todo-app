@@ -9,12 +9,12 @@
 # App Screenshots
 
 ![Splash screen](/assets/images/splash-icon-dark.png)
-![Splash screen](./sreenshots/splash.png)
-![Empty task screen](./sreenshots/empty.png)
-![Add task screen](./sreenshots/add.png)
-![Task list](./sreenshots/tasks.png)
-![Selection](./sreenshots/edit.png)
-![Delete task](./sreenshots/delete-confirm.png)
+![Splash screen](/sreenshots/splash.png)
+![Empty task screen](/sreenshots/empty.png)
+![Add task screen](/sreenshots/add.png)
+![Task list](/sreenshots/tasks.png)
+![Selection](/sreenshots/edit.png)
+![Delete task](/sreenshots/delete-confirm.png)
 
 
 # Features in the future
