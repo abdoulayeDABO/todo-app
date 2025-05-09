@@ -8,16 +8,25 @@
 
 # App Screenshots
 
-![Splash screen](/assets/images/splash-icon-dark.png)
-![Splash screen](/sreenshots/splash.png)
-![Empty task screen](/sreenshots/empty.png)
-![Add task screen](/sreenshots/add.png)
-![Task list](/sreenshots/tasks.png)
-![Selection](/sreenshots/edit.png)
-![Delete task](/sreenshots/delete-confirm.png)
+![Splash screen](/assets/splash.png)
+![Empty task screen](/assets/empty.png)
+![Add task screen](/assets/add.png)
+![Task list](/assets/tasks.png)
+![Selection](/assets/edit.png)
+![Delete task](/assets/delete-confirm.png)
 
 
 # Features in the future
 - Swipe to delete
 - Add a task with a time and date
 - Alert when date and time is reached
+
+# How to run the app
+
+```bash
+git clone https://github.com/abdoulayeDABO/todo-app.git
+cd todo-app 
+yarn install
+npx expo start
+```
+
